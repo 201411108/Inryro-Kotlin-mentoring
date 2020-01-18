@@ -1,3 +1,4 @@
+//2577 숫자의 개수
 import java.util.Scanner
 fun main(args:Array<String>) : Unit{
     val scan =Scanner(System.`in`)
